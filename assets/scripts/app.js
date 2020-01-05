@@ -26,8 +26,6 @@ const addMovieHandler = () => {
   const titleValue = userInputs[0].value;
   const imageUrlValue = userInputs[1].value;
   const ratingValue = userInputs[2].value;
-  const titleValue = userInputs[0].value;
-  const titleValue = userInputs[0].value;
 
   if (
     titleValue.trim() === '' ||
